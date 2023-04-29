@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @hrushikeshingole
-- 👀 I’m interested in ...DBMS AND system designs
+- 👀 I’m interested in ...DBMS, Web development, Data Analysis
+AND system designs.
 - 🌱 I’m currently learning ...c++ and java
-- 💞️ I’m looking to collaborate on ...c==
+- 💞️ I’m looking to collaborate on ...c++, Data Analysis 
 - 📫 How to reach me ...rushikeshingole2@gmail.com
 
 <!---
