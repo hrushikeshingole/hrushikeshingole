@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&width=500&height=50&lines=Hi%2C+I'm+Hrushikesh+%F0%9F%91%8B;Data+Science+%7C+AI+%7C+NLP+Developer;Marathi+Mental+Health+Chatbot+Builder;Always+Learning+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 <h1 align="center">Hi, I'm Hrushikesh 👋</h1>
 <p align="center">
 🔬 Data Scientist | 💡 AI & NLP Developer | 🧠 Mental Health Tech Researcher <br>
@@ -58,4 +62,3 @@
 
 > I believe **regional language AI** can revolutionize access to mental health support and education across India 🇮🇳  
 > I’m on a mission to build real-world, socially impactful AI systems. Let’s connect and collaborate!
-
